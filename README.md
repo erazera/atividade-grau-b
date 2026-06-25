@@ -7,6 +7,7 @@ O programa simula o ciclo completo de tradução de endereços virtuais para fí
 ## Hardware Simulado
 
 | Parâmetro | Valor |
+| :--- | :--- |
 | Memória Virtual | 1 MB (128 páginas) |
 | Memória Principal (RAM) | 64 KB (8 frames) |
 | Tamanho da Página/Frame | 8 KB |
